@@ -1,0 +1,59 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "redmist_210130_ui-notes-vizzie_slidr",
+	"origin" : "redmist",
+	"type" : "patcher",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bound mode" : 0.0,
+				"Interp mode" : 0.0,
+				"Mode" : 1.0,
+				"Rotation" : 320.314960629920904,
+				"Slide down" : 0.0,
+				"Slide up" : 6.0,
+				"X offset" : 66.089999999994347,
+				"X offset[1]" : -0.25,
+				"Y offset" : 51.181102362204676,
+				"Y offset[1]" : 0.125,
+				"button" : 0.0,
+				"button[1]" : 0.0,
+				"button[2]" : 0.0,
+				"gswitch2[2]" : 1.0,
+				"gswitch2[3]" : 0.0,
+				"gswitch2[4]" : 0.0,
+				"multislider" : 1.0,
+				"multislider[1]" : 1.0,
+				"multislider[2]" : 1.0,
+				"slider" : 0.901107869847811,
+				"slider[1]" : 6.356943523404248,
+				"slider[2]" : 11.30448047224634,
+				"slider[5]" : 1.0,
+				"slider[6]" : 9999.0,
+				"slider[7]" : 1.01,
+				"toggle" : 1.0,
+				"toggle[1]" : 1.0,
+				"umenu[10]" : 62.0,
+				"umenu[11]" : 6.0,
+				"umenu[12]" : 62.0,
+				"umenu[6]" : 11.0,
+				"umenu[7]" : 62.0,
+				"umenu[8]" : 62.0,
+				"blob" : 				{
+					"range[1]" : [ 0 ],
+					"range[2]" : [ 0 ],
+					"range[4]" : [ 1 ],
+					"textedit" : [ 1, "-", "hello", "nurse", 2, "-", "dont", "you", "wanna", "go", "apeshit?", 3, "-", "solipsist", "p1", 4, "-", "spacious", "workout", 5, "-", "chill", "aesthetics", 6, "-", "keldscopeave", 7, "-", "meditation", "grey", 8, "-", "whales", "of", "light", 9, "-", "tinted", "rain", 10, "-", "golden", "afternoon" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

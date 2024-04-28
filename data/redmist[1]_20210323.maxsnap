@@ -1,0 +1,82 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "redmist_210323_movie-objects",
+	"origin" : "redmist",
+	"type" : "patcher",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bliue Y offset" : 0.401574803149606,
+				"Blue X offset" : 0.0,
+				"Bound mode" : 0.0,
+				"Green X offset" : 0.330708661417323,
+				"Green vertical offset" : 0.503937007874015,
+				"Interp mode" : 0.0,
+				"Mode" : 1.13681258232794,
+				"Red X offset" : 0.196850393700787,
+				"Red Y offset" : 0.0,
+				"Rotation" : 90.0,
+				"Slide down" : 32.0,
+				"Slide up" : 0.0,
+				"X offset" : 100.0,
+				"X offset[1]" : -1.0,
+				"Y offset" : 0.0,
+				"Y offset[1]" : -1.0,
+				"button" : 1.0,
+				"button[1]" : 0.0,
+				"button[2]" : 0.0,
+				"dial" : 0.0,
+				"dial[1]" : 4.0,
+				"dial[2]" : 0.32480359495084,
+				"dial[3]" : 0.16240179747542,
+				"dial[4]" : 0.0,
+				"dial[5]" : 0.284203145581985,
+				"dial[6]" : 0.0,
+				"dial[7]" : 0.0,
+				"dial[8]" : 0.0,
+				"gswitch2[2]" : 0.0,
+				"gswitch2[3]" : 0.0,
+				"gswitch2[4]" : 0.0,
+				"gswitch2[5]" : 0.0,
+				"multislider" : 0.661197125911713,
+				"multislider[1]" : 1.0,
+				"multislider[2]" : 1.0,
+				"slider" : 2.227849245071411,
+				"slider[1]" : 2.20390772819519,
+				"slider[2]" : 2.217995405197144,
+				"slider[3]" : 4.0,
+				"slider[4]" : 2.0,
+				"slider[5]" : 0.089384846389294,
+				"slider[6]" : 9999.0,
+				"slider[7]" : 0.0,
+				"textbutton" : 0.0,
+				"toggle" : 1.0,
+				"toggle[1]" : 0.0,
+				"toggle[2]" : 0.0,
+				"toggle[3]" : 0.0,
+				"toggle[4]" : 0.0,
+				"toggle[5]" : 0.0,
+				"toggle[6]" : 0.0,
+				"umenu[10]" : 10.0,
+				"umenu[11]" : 25.0,
+				"umenu[12]" : 7.0,
+				"umenu[6]" : 14.0,
+				"umenu[7]" : 34.0,
+				"umenu[8]" : 0.0,
+				"blob" : 				{
+					"range[1]" : [ 0 ],
+					"range[2]" : [ 0 ],
+					"range[4]" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

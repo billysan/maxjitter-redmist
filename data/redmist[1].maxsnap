@@ -1,0 +1,54 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "redmist_210126_better_memory",
+	"origin" : "redmist",
+	"type" : "patcher",
+	"subtype" : "Undefined",
+	"embed" : 1,
+	"snapshot" : 	{
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bound mode" : 1.0,
+				"Interp mode" : 1.0,
+				"Mode" : 1.0,
+				"Rotation" : 0.0,
+				"X offset" : 100.0,
+				"X offset[1]" : -0.25,
+				"Y offset" : 0.0,
+				"Y offset[1]" : 0.125,
+				"button" : 0.0,
+				"button[1]" : 0.0,
+				"button[2]" : 0.0,
+				"gswitch2[2]" : 0.0,
+				"gswitch2[3]" : 0.0,
+				"multislider" : 0.283767908811569,
+				"multislider[1]" : 1.0,
+				"multislider[2]" : 1.0,
+				"slider" : 1.176470637321472,
+				"slider[1]" : 5.76298713684082,
+				"slider[2]" : 11.297340393066406,
+				"slider[5]" : 0.0,
+				"slider[6]" : 9999.0,
+				"slider[7]" : 0.0,
+				"toggle" : 0.0,
+				"toggle[1]" : 0.0,
+				"umenu[10]" : 33.0,
+				"umenu[11]" : 44.0,
+				"umenu[12]" : 9.0,
+				"umenu[6]" : 14.0,
+				"umenu[7]" : 34.0,
+				"umenu[8]" : 10.0,
+				"blob" : 				{
+					"range[1]" : [ 0 ],
+					"range[4]" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

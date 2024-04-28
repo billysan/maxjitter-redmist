@@ -1,0 +1,54 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "redmist_210129_tracer_and_backend_groups",
+	"origin" : "redmist",
+	"type" : "patcher",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Bound mode" : 0.0,
+				"Interp mode" : 0.0,
+				"Mode" : 1.0,
+				"Rotation" : 90.0,
+				"X offset" : 82.889999999992497,
+				"X offset[1]" : -0.25,
+				"Y offset" : 51.181102362204676,
+				"Y offset[1]" : 0.125,
+				"button" : 0.0,
+				"button[1]" : 0.0,
+				"button[2]" : 0.0,
+				"gswitch2[2]" : 1.0,
+				"gswitch2[3]" : 0.0,
+				"multislider" : 0.658464252948761,
+				"multislider[1]" : 1.0,
+				"multislider[2]" : 1.0,
+				"slider" : 0.856985449790955,
+				"slider[1]" : 6.0,
+				"slider[2]" : 10.670197486877441,
+				"slider[5]" : 1.0,
+				"slider[6]" : 9999.0,
+				"slider[7]" : 0.0,
+				"toggle" : 0.0,
+				"toggle[1]" : 0.0,
+				"umenu[10]" : 44.0,
+				"umenu[11]" : 11.0,
+				"umenu[12]" : 50.0,
+				"umenu[6]" : 49.0,
+				"umenu[7]" : 44.0,
+				"umenu[8]" : 49.0,
+				"blob" : 				{
+					"range[1]" : [ 0 ],
+					"range[4]" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
